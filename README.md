@@ -1,2 +1,3 @@
-# gitbook
-docs
+# Headline
+
+> An awesome project.
