@@ -62,6 +62,8 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 
 下载完后打开`~/.zshrc`文件，将插件配置修改为`plugins=(git zsh-autosuggestions zsh-syntax-highlighting)`。
 
+---
+
 ## 设置 iTerm2
 
 1. 设置透明度：`Preferences -> Profiles -> Window`拖动`Transparency`。

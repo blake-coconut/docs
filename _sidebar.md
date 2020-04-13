@@ -1,5 +1,5 @@
 * 准备环境
-  * [iTem2 与 Oh My Zsh 配置](environment/item2)
+  * [iTerm2 与 Oh My Zsh 配置](environment/item2)
   * [Node.js 环境安装](environment/node)
   * [Visual Studio Code 相关设置](environment/vscode)
   * [EditorConfig](environment/editor-config)
