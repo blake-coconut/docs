@@ -43,6 +43,7 @@
 | [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)                                 | 人工智能辅助开发                                                                                                                                        |
 | [vscode-icons-mac](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)                                                          | `VSCode`文件及文件夹图标                                                                                                                                |
 | [vscode-json](https://marketplace.visualstudio.com/items?itemName=andyyaldoo.vscode-json)                                                               | 格式化/压缩/加密/解密 JSON                                                                                                                              |
+| [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)                                                         | 流程图工具                                                                                                                                              |
 
 ---
 
