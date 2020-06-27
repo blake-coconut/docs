@@ -7,3 +7,5 @@
   * [在 VSCode 中配置 ESLint](environment/vscode-eslint)
 * 规范
   * [JavaScript 规范](guide/javascript)
+* Git
+  * [Git 教程](git/git)
