@@ -34,3 +34,6 @@
 
 更多命令查看学习如下：
 [git命令大全](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
+另外也可以直接使用工具Sourcetree完成Git操作
+[Sourcetree教程地址](https://www.jianshu.com/p/dce21c4e88fc)
