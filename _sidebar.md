@@ -9,3 +9,5 @@
   * [JavaScript 规范](guide/javascript)
 * Git
   * [Git 教程](git/git)
+* Flutter
+  * [Flutter 开发环境搭建](flutter/environment)
