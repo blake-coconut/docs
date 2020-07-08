@@ -26,7 +26,7 @@
 
 1. 启动Android Studio.
 2. 打开插件首选项。
-3. 选择*Browse repositories…*, 选择*Flutter*插件并点击*install*.
+3. 选择**Browse repositories…**, 选择**Flutter**插件并点击**install**.
 4. 重启Android Studio后插件生效。
 
 ## Visual Studio Code 配置
