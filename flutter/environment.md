@@ -32,3 +32,6 @@
 ## Visual Studio Code 配置
 
 安装[Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)插件。
+
+## 附录
+1. [完美解决Mac上Android license status unknown.的问题](https://www.jianshu.com/p/8f4c57045166)
